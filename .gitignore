@@ -1,0 +1,13 @@
+# Evitar expor dados sensíveis
+.env
+
+# Cache e arquivos temporários
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+output/
+
+# Configurações locais
+*.bat

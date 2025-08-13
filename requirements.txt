@@ -1,0 +1,5 @@
+discord.py
+Pillow
+requests
+unidecode
+flask
